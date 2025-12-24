@@ -1,2 +1,2 @@
 # Demo
-Learning How to Use Git Hub
+Learning How to Use Git Hub.
